@@ -5,24 +5,24 @@
 source ~/.zshrc
 zmodload zsh/zutil
 
-# this script reconstructs a set of core genomes so that ORFs are in same order and diection of specified reference genome(s)
+# this script reconstructs a set of core genomes so that ORFs are in same order and direction of specified reference genome(s)
 # it then runs a series of scripts to perform and plot LD calculations, which must be in same directory as this script
 # these are: msa2ld.sh ; vcf2ld.sh ; var_calc.R ; ld_perms_and_plots.R
 
 # usage:
 # zsh LD_pipeline.sh 		-h --home-dir       <str> (OPTIONAL)	specify a home directory, must contain additional scripts
-#														        	if not provided, directory where script is used
-#							-p --project        <str> (REQUIRED)	specific system project directory name which will be created in home directory 
-#							-i --id-list        <str> (REQUIRED)	path to list of sequence/isolate ids (without .fasta suffix) matching input wgs and core, used to fetch them 
-#							-w --wgs-input      <str> (REQUIRED)	path to directory of all single whole genome sequence assemblies, fetch using id list
-# 														        	e.g. /Users/ChrisOwen/Dropbox/Work/PhD/Chapters/3-Ranavirus/genomes/complete_genomes/all_whole_genomes/final_seqs/single_seqs
-#							-c --core-input     <str> (REQUIRED)	path to directory of all single catted (not unified) core genome sequences 
-#														        	must match wgs names with added suffix <.core_genes>
-#																	e.g. /Users/ChrisOwen/Dropbox/Work/PhD/Chapters/3-Ranavirus/roary/atv_roary/atv_80_ehnv/core/isolates/isolate_core_genes
-# 							-r --reference-list <str> (OPTIONAL)	path to list of inpust sequences to be used as references
-#														        	if not supplied, useses all input sequence as references
-#							-f --freq-list 		<str> (OPTIONAL)	path to list of minimum threshold frequencies of varient sites to filter out
-#																	if not supplied, will filter sits under 0.03, 0.04, 0.08, 0.10, 0.16
+#									if not provided, directory where script is used
+#				-p --project        <str> (REQUIRED)	specific system project directory name which will be created in home directory 
+#				-i --id-list        <str> (REQUIRED)	path to list of sequence/isolate ids (without .fasta suffix) matching input wgs and core, used to fetch them 
+#				-w --wgs-input      <str> (REQUIRED)	path to directory of all single whole genome sequence assemblies, fetch using id list
+# 									e.g. /Users/ChrisOwen/Dropbox/Work/PhD/Chapters/3-Ranavirus/genomes/complete_genomes/all_whole_genomes/final_seqs/single_seqs
+#				-c --core-input     <str> (REQUIRED)	path to directory of all single catted (not unified) core genome sequences 
+#									must match wgs names with added suffix <.core_genes>
+#									e.g. /Users/ChrisOwen/Dropbox/Work/PhD/Chapters/3-Ranavirus/roary/atv_roary/atv_80_ehnv/core/isolates/isolate_core_genes
+# 				-r --reference-list <str> (OPTIONAL)	path to list of inpust sequences to be used as references
+#									if not supplied, useses all input sequence as references
+#				-f --freq-list 	    <str> (OPTIONAL)	path to list of minimum threshold frequencies of varient sites to filter out
+#									if not supplied, will filter sits under 0.03, 0.04, 0.08, 0.10, 0.16
 
 # get arguments
 zparseopts -D -E - h:=home_dir -home_dir:=home_dir \
