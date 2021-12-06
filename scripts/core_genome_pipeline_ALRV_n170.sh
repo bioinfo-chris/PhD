@@ -70,7 +70,7 @@ for i in * ; do
 	blastn -db $blast_db \
 		-query ${i}/${i}.fasta \
 		-qcov_hsp_perc 80 \
-        -perc_identity 80 \
+        	-perc_identity 80 \
 		-outfmt "6 qseqid sseqid pident length mismatch gapopen qstart qend sstart send evalue bitscore sseq" \
 		-out ${i}/${i}_blast_out.txt
 	cat ${i}/${i}_blast_out.txt | awk -v var="$i" 'BEGIN {RS="\n";FS=" "} {print $2"."var, $13}' | tbl2fasta \
