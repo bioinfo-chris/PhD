@@ -5,7 +5,7 @@
 source ~/.zshrc
 zmodload zsh/zutil
 
-# this script reconstructs a set of core genomes so that ORFs are in same order and direction of specified reference genome(s)
+# this script reconstructs a set of core genomes (one multifasta per core genome) so that ORFs are in same order and direction of specified reference whole genome(s)
 # it then runs a series of scripts to perform and plot LD calculations, which must be in same directory as this script
 # these are: msa2ld.sh ; vcf2ld.sh ; var_calc.R ; ld_perms_and_plots.R
 
@@ -138,7 +138,7 @@ it=0 ; while read ref ; do
 		makeblastdb -in ${home_dir}/${proj_dir}/core/isolate_core_genes/${ref_head}.core_genes.fasta -out ${ref}/WGS_blast/${ref_head}_db -dbtype nucl > /dev/null 2>&1 
 		blastn -db ${ref}/WGS_blast/${ref_head}_db \
 				-query ${home_dir}/${proj_dir}/WGS/${ref_head}.fasta \
-			    -perc_identity 90 \
+			    	-perc_identity 90 \
 				-outfmt 6 \
 				-out ${ref}/WGS_blast/${ref_head}_blast_out.txt
 		cat ${ref}/WGS_blast/${ref_head}_blast_out.txt | sort -rnk4 | sort -uk2,2 | column -t > ${ref}/WGS_blast/${ref_head}_blast_out.txt_
@@ -256,7 +256,7 @@ it=0 ; while read ref ; do
 		makeblastdb -in ${ref}/core_reorder/isolates/${ref_head}/${ref_head}.core_ref_order-direc.fasta -out ${ref}/blast_check/${ref_head}_db -dbtype nucl > /dev/null 2>&1 
 		blastn -db ${ref}/blast_check/${ref_head}_db \
 					-query ${home_dir}/${proj_dir}/WGS/${ref_head}.fasta \
-			        -perc_identity 90 \
+			        	-perc_identity 90 \
 					-outfmt 6 \
 					-out ${ref}/blast_check/${ref_head}_blast_check_out.txt
 		cat ${ref}/blast_check/${ref_head}_blast_check_out.txt | sort -rnk4 | sort -uk2,2 | column -t > ${ref}/blast_check/${ref_head}_blast_check_out.txt_
