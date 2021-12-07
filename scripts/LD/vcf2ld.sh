@@ -39,5 +39,5 @@ mv ${prefix}_LD_table_clean.txt ${prefix}_LD_table.txt
 #tomahawk decay -i ${prefix}_LD.two -I 1:1-60000 > ${prefix}_decay.txt
 
 ####################################################
-### 	    			 END 			 		 ###
+### 	    		 END 			 ###
 ####################################################
