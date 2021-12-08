@@ -1,0 +1,171 @@
+Sample ID,Novel,GenBank Accession,Secondary Accession or ID,NCBI SRA Name,Ranavirus Clade,Sequence Length,Contributing Researcher,Sample Date,Continent,Isolation Country,Host Native Country,Isolation Source,Longitude,Latitude,Host Species,Host Genus,Host Order,Host Class
+CA00_ATV_DAL1,No,KR075884.1,ATV_DAL1,NA,ATV-like,105354,NA,01/07/2000,North America,Canada,Canada,Wild,-106.346771,56.130366,Ambystoma tigrinum,Ambystoma,Urodela,Amphibia
+CA13_ATV_04,No,MK580531.2,ATV_2013_CAD_04,NA,ATV-like,106258,NA,16/08/2013,North America,Canada,Canada,Wild,-106.346771,56.130366,Ambystoma mavortium,Ambystoma,Urodela,Amphibia
+CA13_ATV_12,No,MK580532.2,ATV_2013_CAD_12,NA,ATV-like,106652,NA,16/08/2013,North America,Canada,Canada,Wild,-106.346771,56.130366,Ambystoma mavortium,Ambystoma,Urodela,Amphibia
+CA13_ATV_LL1,No,MK580533.2,ATV_2013_CAD_LL1,NA,ATV-like,106578,NA,13/07/2013,North America,Canada,Canada,Wild,-106.346771,56.130366,Ambystoma mavortium,Ambystoma,Urodela,Amphibia
+CA13_ATV_LL2,No,MK580534.1,ATV_2013_CAD_LL2,NA,ATV-like,106730,NA,13/07/2013,North America,Canada,Canada,Wild,-106.346771,56.130366,Ambystoma mavortium,Ambystoma,Urodela,Amphibia
+CA13_ATV_LL3,No,MK580535.2,ATV_2013_CAD_LL3,NA,ATV-like,106629,NA,13/07/2013,North America,Canada,Canada,Wild,-106.346771,56.130366,Ambystoma mavortium,Ambystoma,Urodela,Amphibia
+CA14_ATV_322,No,MK580536.1,ATV_2014_CAD_322,NA,ATV-like,106915,NA,12/08/2014,North America,Canada,Canada,Wild,-106.346771,56.130366,Ambystoma mavortium,Ambystoma,Urodela,Amphibia
+CA97_ATV_RRV,No,KR075879.1,ATV_RRV,NA,ATV-like,106971,NA,01/07/1997,North America,Canada,Canada,Wild,-106.346771,56.130366,Ambystoma tigrinum,Ambystoma,Urodela,Amphibia
+CA98_ATV_TSMB,No,KR075875.1,ATV_TSMB,NA,ATV-like,106526,NA,01/07/1998,North America,Canada,Canada,Wild,-106.346771,56.130366,Ambystoma tigrinum,Ambystoma,Urodela,Amphibia
+USA_ATV_NM,No,KR075880.1,ATV_NM,NA,ATV-like,107471,NA,01/07/2004,North America,USA,USA,Wild,-95.712891,37.09024,Ambystoma tigrinum,Ambystoma,Urodela,Amphibia
+USA00_ATV_CAP,No,KR075886.1,ATV_CAP,NA,ATV-like,106004,NA,01/07/2000,North America,USA,USA,Wild,-95.712891,37.09024,Ambystoma tigrinum,Ambystoma,Urodela,Amphibia
+USA00_ATV_DO,No,KR075885.1,ATV_DO,NA,ATV-like,105936,NA,01/07/2000,North America,USA,USA,Wild,-95.712891,37.09024,Ambystoma tigrinum,Ambystoma,Urodela,Amphibia
+USA00_ATV_HEIDI,No,KR075873.1,ATV_HEDI,NA,ATV-like,106230,NA,01/07/2000,North America,USA,USA,Wild,-95.712891,37.09024,Ambystoma tigrinum,Ambystoma,Urodela,Amphibia
+USA00_ATV_JMH,No,KR075881.1,ATV_JMH,NA,ATV-like,106380,NA,01/07/2000,North America,USA,USA,Wild,-95.712891,37.09024,Ambystoma tigrinum,Ambystoma,Urodela,Amphibia
+USA00_ATV_SLV,No,KR075878.1,ATV_SLV,NA,ATV-like,106722,NA,01/07/2000,North America,USA,USA,Wild,-95.712891,37.09024,Ambystoma tigrinum,Ambystoma,Urodela,Amphibia
+USA01_ATV_AXO,No,KR075872.1,ATV_AXO,NA,ATV-like,105504,NA,01/07/2001,North America,USA,USA,Captive,-95.712891,37.09024,Ambystoma mexicanum,Ambystoma,Urodela,Amphibia
+USA01_ATV_GUFFY,No,KR075882.1,ATV_GUFFY,NA,ATV-like,106437,NA,01/07/2001,North America,USA,USA,Wild,-95.712891,37.09024,Ambystoma tigrinum,Ambystoma,Urodela,Amphibia
+USA03_ATV_DOT312,No,KR075883.1,ATV_DOT312,NA,ATV-like,107829,NA,01/07/2003,North America,USA,USA,Wild,-95.712891,37.09024,Ambystoma tigrinum,Ambystoma,Urodela,Amphibia
+USA96_ATV,No,NC_005832.1,AY150217.1,NA,ATV-like,106332,NA,01/07/1996,North America,USA,USA,Wild,-110.6307,31.4549,Ambystoma tigrinum stebbinsi,Ambystoma,Urodela,Amphibia
+USA98_ATV_ORV,No,KR075874.1,ATV_ORV,NA,ATV-like,106018,NA,01/07/1998,North America,USA,USA,Captive,-95.712891,37.09024,Ambystoma tigrinum,Ambystoma,Urodela,Amphibia
+USA98_ATV_UTAH,No,KR075877.1,ATV_UTAH,NA,ATV-like,106198,NA,01/07/1998,North America,USA,USA,Wild,-95.712891,37.09024,Ambystoma tigrinum,Ambystoma,Urodela,Amphibia
+USA98_ATV_YEL,No,KR075876.1,ATV_YEL,NA,ATV-like,105922,NA,01/07/1998,North America,USA,USA,Wild,-95.712891,37.09024,Ambystoma tigrinum,Ambystoma,Urodela,Amphibia
+CH96_THRV,No,KP266741.1,THRV,NA,CMTV-like,105811,NA,01/07/1996,Europe,Switzerland,Switzerland,Captive,8.227512,46.818188,Testudo hermanni,Testudo,Testudines,Reptilia
+CHN10_AAC4HASH,Yes,NA,NA,CHI10Ad_N126,CMTV-like,105945,Andrew Cunningham,01/07/2010,Asia,China,China,Captive,104.195397,35.86166,Andrias davidianus,Andrias,Urodela,Amphibia
+CHN10_ADRV2010,No,KF033124.1,ADRV_2010,NA,CMTV-like,106719,NA,01/07/2010,Asia,China,China,Captive,104.195397,35.86166,Andrias davidianus,Andrias,Urodela,Amphibia
+CHN10_KC2,No,KC243313.1,CGSIV_2014,NA,CMTV-like,104373,NA,05/11/2010,Asia,China,China,Captive,104.195397,35.86166,Andrias davidianus,Andrias,Urodela,Amphibia
+CHN12_ADRV1201,No,KC865735.1,ADRV_1201,NA,CMTV-like,106734,NA,30/04/2012,Asia,China,China,Captive,104.195397,35.86166,Andrias davidianus,Andrias,Urodela,Amphibia
+CHN13_CGSIV,No,KF512820.1,CGSIV_2013,NA,CMTV-like,105375,NA,29/07/2013,Asia,China,China,Captive,104.195397,35.86166,Andrias davidianus,Andrias,Urodela,Amphibia
+DE17_ToN215,Yes,NA,ToN215,GER17Ts_N215,CMTV-like,105910,Rachael Marschang,01/07/2017,Europe,Germany,Germany,Captive,10.451526,51.165691,Tortoise spp.,Tortoise,Testudines,Reptilia
+DK08_PEV,No,MF538627.1,PEV,NA,CMTV-like,107469,NA,01/07/2008,Europe,Denmark,Denmark,Wild,9.501785,56.26392,Pelophylax spp.,Pelophylax,Anura,Amphibia
+ES08_CMTV_E,No,JQ231222.1,CMTV_SP,NA,CMTV-like,106878,NA,01/08/2008,Europe,Spain,Spain,Wild,-3.74922,40.46367,Mesotriton alpestris,Mesotriton,Urodela,Amphibia
+ES10_GA_C5,Yes,NA,NA,SPA10Lb_N133,CMTV-like,106724,Cesar Ayres,01/07/2010,Europe,Spain,Spain,Wild,-8.613667488,42.49925069,Lissotriton boscai,Lissotriton,Urodela,Amphibia
+ES11_GA_01,Yes,NA,NA,SPA11Nm_N247,CMTV-like,106633,Cesar Ayres,01/07/2011,Europe,Spain,Spain,Wild,-8.616252,42.4996741,Natrix maura,Natrix,Squamata,Reptilia
+ES11_GA_05,Yes,NA,NA,SPA11Tm_N146,CMTV-like,106754,Cesar Ayres,01/07/2011,Europe,Spain,Spain,Wild,-8.613667488,42.49925069,Triturus marmoratus,Triturus,Urodela,Amphibia
+ES11_PE_113N,Yes,NA,AAOV,SPA11Ao_N127,CMTV-like,106303,Jaime Bosch,15/07/2011,Europe,Spain,Spain,Wild,-4.716471,43.21292,Alytes obstetricans,Alytes,Anura,Amphibia
+ES11_PE_114N,Yes,NA,NA,SPA11Ma_N108,CMTV-like,106200,Jaime Bosch,28/09/2011,Europe,Spain,Spain,Wild,-4.785981,43.19698,Mesotriton alpestris,Mesotriton,Urodela,Amphibia
+ES13_GA_334S2,Yes,NA,NA,SPA13Tm_N140,CMTV-like,106966,Cesar Ayres,10/05/2013,Europe,Spain,Spain,Wild,-8.616252,42.4996741,Triturus marmoratus,Triturus,Urodela,Amphibia
+ES13_GA_354S2,Yes,NA,NA,SPA13Tm_N150,CMTV-like,106756,Cesar Ayres,10/05/2013,Europe,Spain,Spain,Wild,-8.616252,42.4996741,Triturus marmoratus,Triturus,Urodela,Amphibia
+FIN97_PPIV,No,KX574341.1,PPIV,NA,CMTV-like,108041,NA,01/07/1997,Europe,Finland,Finland,Captive,25.7481511,61.92411,Sander lucioperca,Sander,Perciformes,Actinopterygii
+FR13_CMTV,Yes,NA,NA,FRA13Rt_N243,CMTV-like,105916,Claude Miaud,01/07/2013,Europe,France,France,Wild,2.21,46.2,Rana temporaria,Rana,Anura,Amphibia
+FR14_1448,Yes,NA,NA,FRA14Rt_N122,CMTV-like,105955,Claude Miaud,24/07/2014,Europe,France,France,Wild,6.7757502,44.3321499,Rana temporaria,Rana,Anura,Amphibia
+FR14_1457a,Yes,NA,NA,FRA14Rt_N295,CMTV-like,105878,Claude Miaud,19/09/2014,Europe,France,France,Wild,7.3751229,44.0814715,Rana temporaria,Rana,Anura,Amphibia
+GB11_696,Yes,NA,NA,GBR11Rt_N139,CMTV-like,106509,Becki Lawson,01/07/2011,Europe,United Kingdom,United Kingdom,Wild,-4.0668035,50.384258,Rana temporaria,Rana,Anura,Amphibia
+GB95_789,Yes,NA,NA,GBR95Rt_N125,CMTV-like,106508,Becki Lawson,01/07/1995,Europe,United Kingdom,United Kingdom,Wild,-0.31257921,51.312809,Rana temporaria,Rana,Anura,Amphibia
+GB95_791,Yes,NA,NA,GBR95Rt_N252,CMTV-like,106172,Becki Lawson,01/07/1995,Europe,United Kingdom,United Kingdom,Wild,-0.31257921,51.312809,Rana temporaria,Rana,Anura,Amphibia
+IT01_REV,No,MF538628.1,REV,NA,CMTV-like,107444,NA,01/07/2001,Europe,Italy,Italy,Wild,12.56738,41.87194,Rana esculenta,Rana,Anura,Amphibia
+NL11_UU3110504006,No,MF004271.1,UU3110504006,NET11Ps_sraNA,CMTV-like,107445,Bernardo _Saucedo,04/04/2011,Europe,Netherlands,Netherlands,Wild,6.31,52.65,Pelophylax spp.,Pelophylax,Anura,Amphibia
+NL11_UU3110810001,No,MF033604.1,UU3110810001,NET11Ps_sraNA,CMTV-like,107765,Bernardo _Saucedo,10/08/2011,Europe,Netherlands,Netherlands,Wild,6.21,52.77,Pelophylax spp.,Pelophylax,Anura,Amphibia
+NL11_UU3110920007,No,MF038789.1,UU3110920007,NET11Ps_sraNA,CMTV-like,107832,Bernardo _Saucedo,20/09/2011,Europe,Netherlands,Netherlands,Wild,6.47,52.75,Pelophylax spp.,Pelophylax,Anura,Amphibia
+NL12_UU3120627007,No,MF062693.1,UU3120627007,NET12Pf_sraNA,CMTV-like,107681,Bernardo _Saucedo,27/06/2012,Europe,Netherlands,Netherlands,Wild,6.28,52.63,Pelobates fuscus,Pelobates,Anura,Amphibia
+NL13_nlpe13,No,NC_039034.1,KP056312.1,NA,CMTV-like,107772,NA,22/08/2013,Europe,Netherlands,Netherlands,Wild,5.291266,52.13263,Pelophylax spp.,Pelophylax,Anura,Amphibia
+NL13_UU3130829033,No,MF062694.1,UU3130829033,NET13Lv_sraNA,CMTV-like,107662,Bernardo _Saucedo,29/08/2013,Europe,Netherlands,Netherlands,Wild,6.29,52.94,Lissotriton vulgaris,Lissotriton,Urodela,Amphibia
+NL14_UU3140624035,No,MF062695.1,UU3140624035,NET14Ps_sraNA,CMTV-like,107714,Bernardo _Saucedo,24/06/2014,Europe,Netherlands,Netherlands,Wild,6.29,52.94,Pelophylax spp.,Pelophylax,Anura,Amphibia
+NL14_UU3140708068,No,MF093732.1,UU3140708068,NET14Ps_sraNA,CMTV-like,107907,Bernardo _Saucedo,08/07/2014,Europe,Netherlands,Netherlands,Wild,6.38,52.97,Pelophylax spp.,Pelophylax,Anura,Amphibia
+NL14_UU3140911033,No,MF102028.1,UU3140911033,NET14Ps_sraNA,CMTV-like,107304,Bernardo _Saucedo,11/09/2014,Europe,Netherlands,Netherlands,Wild,6.37,52.73,Pelophylax spp.,Pelophylax,Anura,Amphibia
+NL15_UU3150625026,No,MF102029.1,UU3150625026,NET15Lv_sraNA,CMTV-like,107217,Bernardo _Saucedo,25/06/2015,Europe,Netherlands,Netherlands,Wild,6.28,52.63,Lissotriton vulgaris,Lissotriton,Urodela,Amphibia
+NL15_UU3150902003,No,MF102030.1,UU3150902003,NET15Ps_sraNA,CMTV-like,107650,Bernardo _Saucedo,20/09/2015,Europe,Netherlands,Netherlands,Wild,6.5,52.98,Pelophylax spp.,Pelophylax,Anura,Amphibia
+NL15_UU3150902051,No,MF004272.1,UU3150902051,NET15Ps_sraNA,CMTV-like,107423,Bernardo _Saucedo,02/09/2015,Europe,Netherlands,Netherlands,Wild,6.38,52.97,Lissotriton vulgaris,Lissotriton,Urodela,Amphibia
+NL15_UU3151009019,No,MF125269.1,UU3151009019,NET15Ps_sraNA,CMTV-like,106658,Bernardo _Saucedo,09/10/2015,Europe,Netherlands,Netherlands,Wild,6.28,51.98,Pelophylax spp.,Pelophylax,Anura,Amphibia
+NL16_UU3160714042,No,MF125270.1,UU3160714042,NET16Ps_sraNA,CMTV-like,106404,Bernardo _Saucedo,14/07/2016,Europe,Netherlands,Netherlands,Wild,6.04,51.16,Pelophylax spp.,Pelophylax,Anura,Amphibia
+NL17_3170726027,Yes,NA,NA,NET17Pe_N204,CMTV-like,106876,Bernardo _Saucedo,01/07/2017,Europe,Netherlands,Netherlands,Wild,6.3184641,52.7000927,Pelophylax spp.,Pelophylax,Anura,Amphibia
+PT01_GERES_C5,Yes,NA,NA,POR01Lb_N104,CMTV-like,106457,Goncalo Rosa,01/07/2001,Europe,Portugal,Portugal,Wild,-8.2208087,41.9743527,Lissotriton boscai,Lissotriton,Urodela,Amphibia
+PT12_SDE12_G54,Yes,NA,NA,POR12Bb_N118,CMTV-like,106097,Goncalo Rosa,02/09/2012,Europe,Portugal,Portugal,Wild,-7.612967,40.321867,Bufo bufo,Bufo,Anura,Amphibia
+PT13_SDE13_I23,Yes,NA,NA,POR13Lb_N287,CMTV-like,108127,Goncalo Rosa,18/08/2013,Europe,Portugal,Portugal,Wild,-7.5927778,40.3361111,Lissotriton boscai,Lissotriton,Urodela,Amphibia
+PT15_GERES_22,Yes,NA,NA,POR15Tm_N120,CMTV-like,106195,Goncalo Rosa,01/07/2015,Europe,Portugal,Portugal,Wild,-8.2208087,41.9743527,Triturus marmoratus,Triturus,Urodela,Amphibia
+USA98_RCV15027,No,KX397571.1,NA,NA,CMTV-like,106890,NA,01/05/1998,North America,USA,USA,Captive,-95.712891,37.09024,Lithobates catesbeianus,Lithobates,Anura,Amphibia
+USA98_RCVZ,No,MF187210.1,RCVZ,NA,CMTV-like,106890,NA,01/07/1998,North America,USA,USA,Captive,-83.248421,31.42335,Lithobates catesbeianus,Lithobates,Anura,Amphibia
+PL15_RESRV,No,MT452035.1,Red-eared slider ranavirus,NA,CMTV-like,106878,NA,01/07/2015,Europe,Poland,USA,Wild,23.1405,51.2889,Trachemys scripta,Trachemys,Testudines,Reptilia
+AU84_EHNV,No,FJ433873.1,EHNV,NA,EHNV-like,127011,NA,01/07/1984,Oceania,Australia,Australia,Captive,144.9630576,-37.8136276,Perca fluviatilis,Perca,Perciformes,Actinopterygii
+DK79_CodIV,No,KX574342.1,CodIV,NA,EHNV-like,114865,NA,01/07/1979,Europe,Denmark,Denmark,Captive,9.501785,56.26392,Gadus morhua,Gadus,Gadiformes,Actinopterygii
+DK99_RMax,No,KX574343.1,RMax,NA,EHNV-like,115510,NA,01/07/1999,Europe,Denmark,Denmark,Captive,9.501785,56.26392,Scophthalmus maximus,Scophthalmus,Pleuronectiformes,Actinopterygii
+ES11_ESV,No,JQ724856.1,ESV,NA,EHNV-like,127732,NA,01/07/2011,Europe,Spain,Spain,Captive,-3.4531644,40.6385042,Silurus glanis,Silurus,Siluriformes,Actinopterygii
+GB16_LFRV_V4955,No,MH665360.1,LFRV_V4955,NA,EHNV-like,115744,NA,01/04/2016,Europe,United Kingdom,United Kingdom,Wild,-3.435973,55.378051,Cyclopterus lumpus,Cyclopterus,Scorpaeniformes,Actinopterygii
+HU12_ECV_13051,No,KT989884.1,ECV_13051,NA,EHNV-like,127751,NA,01/07/2012,Europe,Hungary,Hungary,Captive,19.5033041,47.162494,Ameiurus nebulosus,Ameiurus,Siluriformes,Actinopterygii
+HU12_ECV_14612,No,KT989885.1,ECV_14612,NA,EHNV-like,127549,NA,01/07/2012,Europe,Hungary,Hungary,Captive,19.5033041,47.162494,Ameiurus nebulosus,Ameiurus,Siluriformes,Actinopterygii
+ISL15_LFRV_F24,No,MH665358.1,LFRV_F24-15,NA,EHNV-like,116726,NA,01/04/2015,Europe,Iceland,Iceland,Wild,-19.020835,64.963051,Cyclopterus lumpus,Cyclopterus,Scorpaeniformes,Actinopterygii
+ISL16_LFRV_F140,No,MH665359.1,LFRV_F140-16,NA,EHNV-like,115947,NA,01/07/2016,Europe,Ireland,Ireland,Captive,-7.6920536,53.1423672,Cyclopterus lumpus,Cyclopterus,Scorpaeniformes,Actinopterygii
+NZ91_SERV,No,KX353311.2,SERV,NA,EHNV-like,126965,NA,01/01/1991,Oceania,New Zealand,New Zealand,Captive,174.885971,-40.900557,Anguilla australis,Anguilla,Anguilliformes,Actinopterygii
+AU88_V121,No,MT510729.1,V121,NA,EHNV-like,125923,NA,01/07/1988,Oceania,Australia,Australia,Captive,147.524,-36.55758,Oncorhynchus mykiss,Oncorhynchus,Salmoniformes,Actinopterygii
+AU86_V084,No,MT510730.1,V084,NA,EHNV-like,127487,NA,01/07/1986,Oceania,Australia,Australia,Captive,148.7740012,-35.996012,Perca fluviatilis,Perca,Perciformes,Actinopterygii
+AU86_V111,No,MT510731.1,V111,NA,EHNV-like,125883,NA,01/07/1986,Oceania,Australia,Australia,Captive,148.2325033,-35.3207508,Oncorhynchus mykiss,Oncorhynchus,Salmoniformes,Actinopterygii
+AU86_V017,No,MT510732.1,V017,NA,EHNV-like,125588,NA,01/07/1986,Oceania,Australia,Australia,Captive,148.2715459,-35.5066583,Oncorhynchus mykiss,Oncorhynchus,Salmoniformes,Actinopterygii
+AU90_V083,No,MT510733.1,V083,NA,EHNV-like,125838,NA,01/07/1990,Oceania,Australia,Australia,Captive,145.2139907,-37.9847811,Perca fluviatilis,Perca,Perciformes,Actinopterygii
+AU91_V080,No,MT510734.1,V080,NA,EHNV-like,125627,NA,01/07/1991,Oceania,Australia,Australia,Captive,148.2715459,-35.5066583,Perca fluviatilis,Perca,Perciformes,Actinopterygii
+AU93_V070,No,MT510735.1,V070,NA,EHNV-like,125670,NA,01/07/1993,Oceania,Australia,Australia,Captive,148.6347222,-34.9986111,Perca fluviatilis,Perca,Perciformes,Actinopterygii
+AU94_V069,No,MT510736.1,V069,NA,EHNV-like,126027,NA,01/07/1994,Oceania,Australia,Australia,Captive,148.2325033,-35.3207508,Perca fluviatilis,Perca,Perciformes,Actinopterygii
+AU92_V079,No,MT510737.1,V079,NA,EHNV-like,126019,NA,01/07/1992,Oceania,Australia,Australia,Captive,148.2325033,-35.3207508,Oncorhynchus mykiss,Oncorhynchus,Salmoniformes,Actinopterygii
+AU93_V071,No,MT510738.1,V071,NA,EHNV-like,125803,NA,01/07/1993,Oceania,Australia,Australia,Captive,149.1142215,-35.2951212,Oncorhynchus mykiss,Oncorhynchus,Salmoniformes,Actinopterygii
+AU96_V108,No,MT510739.1,V108,NA,EHNV-like,125635,NA,01/07/1996,Oceania,Australia,Australia,Captive,149.2626925,-35.4176958,Oncorhynchus mykiss,Oncorhynchus,Salmoniformes,Actinopterygii
+AU96_V109,No,MT510740.1,V109,NA,EHNV-like,125882,NA,01/07/1996,Oceania,Australia,Australia,Captive,148.4381538,-35.4223355,Oncorhynchus mykiss,Oncorhynchus,Salmoniformes,Actinopterygii
+AU09_V118,No,MT510741.1,V118,NA,EHNV-like,125960,NA,01/07/2009,Oceania,Australia,Australia,Captive,146.9211,-31.25322,Perca fluviatilis,Perca,Perciformes,Actinopterygii
+AU11_V130,No,MT510742.1,V130,NA,EHNV-like,125860,NA,01/07/2011,Oceania,Australia,Australia,Captive,149.0683051,-35.232463,Perca fluviatilis,Perca,Perciformes,Actinopterygii
+AU85_VO18,No,MT510743.1,VO18,NA,EHNV-like,125591,NA,01/07/1985,Oceania,Australia,Australia,Captive,149.0683051,-35.232463,Perca fluviatilis,Perca,Perciformes,Actinopterygii
+BR12_Rana-Bra-01,No,MH351268.1,Rana-Bra-01,NA,FV3-like,105080,NA,20/10/2016,South America,Brazil,USA,Captive,-46.63956,-23.55577,Lithobates catesbeianus,Rana,Anura,Amphibia
+CA15_KTW1,No,MK959607.1,FV3_KTW1,NA,FV3-like,106586,NA,01/07/2015,North America,Canada,Canada,Wild,-124.8457334,64.8255441,Rana sylvatica,Rana,Anura,Amphibia
+CA16_JFB_A072,Yes,NA,NA,CAN16Rs_N267,FV3-like,105540,Joefelix Benneteau,01/07/2016,North America,Canada,Canada,Wild,-107.354694,64.437722,Rana sylvatica,Rana,Anura,Amphibia
+CA16_KEN1,No,MK959604.1,FV3_KEN1,NA,FV3-like,103148,NA,09/06/2016,North America,Canada,Canada,Wild,-78.42658,44.5801,Rana pipiens,Rana,Anura,Amphibia
+CA16_KEN5,No,MK959605.1,FV3_KEN5,NA,FV3-like,102577,NA,09/06/2016,North America,Canada,Canada,Wild,-78.42658,44.5801,Rana pipiens,Rana,Anura,Amphibia
+CA17_Z377,No,MK959608.1,FV3_Z377,NA,FV3-like,104680,NA,01/07/2017,North America,Canada,Canada,Wild,-113.1265833,60.0344,Pseudacris maculata,Pseudacris,Anura,Amphibia
+CA17_Z582,No,MK959609.1,FV3_Z582,NA,FV3-like,106549,NA,01/07/2017,North America,Canada,Canada,Wild,-113.1265833,60.0344,Pseudacris maculata,Pseudacris,Anura,Amphibia
+CA17_Z897,No,MK959611.1,FV3_Z897,NA,FV3-like,104643,NA,01/07/2017,North America,Canada,Canada,Wild,-113.02637,60.0284,Pseudacris maculata,Pseudacris,Anura,Amphibia
+CA17_Z920,No,MK959613.1,FV3_Z920,NA,FV3-like,104603,NA,01/07/2017,North America,Canada,Canada,Wild,-113.02637,60.0284,Rana sylvatica,Rana,Anura,Amphibia
+CA17_Z929,No,MK959614.1,FV3_Z929,NA,FV3-like,104566,NA,01/07/2017,North America,Canada,Canada,Wild,-113.02637,60.0284,Pseudacris maculata,Pseudacris,Anura,Amphibia
+CA17_Z930,No,MK959615.1,FV3_Z930,NA,FV3-like,104245,NA,01/07/2017,North America,Canada,Canada,Wild,-113.02637,60.0284,Rana sylvatica,Rana,Anura,Amphibia
+CA17_Z933,No,MK959616.1,FV3_Z933,NA,FV3-like,105037,NA,01/07/2017,North America,Canada,Canada,Wild,-113.02637,60.0284,Pseudacris maculata,Pseudacris,Anura,Amphibia
+CA17_Z938,No,MK959618.1,FV3_Z938,NA,FV3-like,104549,NA,01/07/2017,North America,Canada,Canada,Wild,-113.02637,60.0284,Rana sylvatica,Rana,Anura,Amphibia
+CA17_Z939,No,MK959619.1,FV3_Z939,NA,FV3-like,104416,NA,01/07/2017,North America,Canada,Canada,Wild,-113.02637,60.0284,Rana sylvatica,Rana,Anura,Amphibia
+CA17_Z942,No,MK959620.1,FV3_Z942,NA,FV3-like,103673,NA,01/07/2017,North America,Canada,Canada,Wild,-113.02637,60.0284,Rana sylvatica,Rana,Anura,Amphibia
+CA17_Z994,No,MK959621.1,FV3_Z994,NA,FV3-like,104788,NA,01/07/2017,North America,Canada,Canada,Wild,-112.3546944,59.4377,Rana sylvatica,Rana,Anura,Amphibia
+CHN16_RNRV,No,MG791866.1,RNRV,NA,FV3-like,104286,NA,01/07/2016,Asia,China,China,Captive,104.195397,35.86166,Rana nigromaculata,Rana,Anura,Amphibia
+CHN95_RGV,No,JQ654586.1,RGV,NA,FV3-like,105791,NA,09/10/1995,Asia,China,USA,Captive,104.195397,35.86166,Rana grylio,Rana,Anura,Amphibia
+CHN99_STIV,No,EU627010.1,STIV,NA,FV3-like,105890,NA,01/01/1999,Asia,China,China,Captive,114.057865,22.543096,Trionyx sinensis,Trionyx,Testudines,Reptilia
+GB07_AD_OS14,Yes,NA,NA,GBR07Ao_N175,FV3-like,104493,Amanda Duffus,01/07/2007,Europe,United Kingdom,United Kingdom,Wild,-0.137163,50.82253,Alytes obstetricans,Alytes,Anura,Amphibia
+GB08_RT113,Yes,NA,NA,GBR08Rt_N186,FV3-like,104752,Amanda Duffus,01/07/2008,Europe,United Kingdom,United Kingdom,Wild,-0.15874,51.35959,Rana temporaria,Rana,Anura,Amphibia
+GB08_RT117,Yes,NA,NA,GBR08Rt_H106,FV3-like,104962,Amanda Duffus,01/07/2008,Europe,United Kingdom,United Kingdom,Wild,-1.79185,53.69326,Rana temporaria,Rana,Anura,Amphibia
+GB08_RT126,Yes,NA,NA,GBR08Rt_H108,FV3-like,104534,Amanda Duffus,01/07/2008,Europe,United Kingdom,United Kingdom,Wild,-1.4815393,50.9954797,Rana temporaria,Rana,Anura,Amphibia
+GB08_RT128,Yes,NA,NA,GBR08Rt_H109,FV3-like,105049,Amanda Duffus,01/07/2008,Europe,United Kingdom,United Kingdom,Wild,-0.15874,51.35959,Rana temporaria,Rana,Anura,Amphibia
+GB08_RT132,Yes,NA,NA,GBR08Rt_N173,FV3-like,105180,Amanda Duffus,01/07/2008,Europe,United Kingdom,United Kingdom,Wild,-2.71373,53.7464,Rana temporaria,Rana,Anura,Amphibia
+GB08_RT133,Yes,NA,NA,GBR08Rt_N187,FV3-like,105387,Amanda Duffus,01/07/2008,Europe,United Kingdom,United Kingdom,Wild,-2.71373,53.7464,Rana temporaria,Rana,Anura,Amphibia
+GB08_RT137,Yes,NA,NA,GBR08Rt_N178,FV3-like,104103,Amanda Duffus,01/07/2008,Europe,United Kingdom,United Kingdom,Wild,-2.71373,53.7464,Rana temporaria,Rana,Anura,Amphibia
+GB10_866,Yes,NA,NA,GBR10Rt_N254,FV3-like,104467,Becki Lawson,01/07/2010,Europe,United Kingdom,United Kingdom,Wild,-0.5599501,51.3147593,Rana temporaria,Rana,Anura,Amphibia
+GB10_872,Yes,NA,NA,GBR10Rt_N156,FV3-like,105534,Becki Lawson,01/07/2010,Europe,United Kingdom,United Kingdom,Wild,-2.3206155,53.420876,Rana temporaria,Rana,Anura,Amphibia
+GB14_1074,Yes,NA,NA,GBR14Rt_N153,FV3-like,105556,Becki Lawson,01/07/2014,Europe,United Kingdom,United Kingdom,Wild,-0.7073,51.0108,Rana temporaria,Rana,Anura,Amphibia
+GB15_1058,Yes,NA,NA,GBR15Rt_N208,FV3-like,105498,Becki Lawson,01/07/2015,Europe,United Kingdom,United Kingdom,Wild,0.73846448,51.540911,Rana temporaria,Rana,Anura,Amphibia
+GB15_1180,Yes,NA,NA,GBR15Rt_N209,FV3-like,104860,Becki Lawson,01/07/2015,Europe,United Kingdom,United Kingdom,Wild,-1.9588529,50.736605,Rana temporaria,Rana,Anura,Amphibia
+GB92_008,Yes,NA,NA,GBR92Rt_N190,FV3-like,104828,Becki Lawson,01/07/1992,Europe,United Kingdom,United Kingdom,Wild,-1.0842103,50.801562,Rana temporaria,Rana,Anura,Amphibia
+GB92_100,Yes,NA,NA,GBR92Rt_N132,FV3-like,104274,Becki Lawson,01/07/1992,Europe,United Kingdom,United Kingdom,Wild,-0.37312638,51.460864,Rana temporaria,Rana,Anura,Amphibia
+GB92_274,Yes,NA,NA,GBR92Rt_N192,FV3-like,104429,Becki Lawson,01/07/1992,Europe,United Kingdom,United Kingdom,Wild,-1.0863223,50.819879,Rana temporaria,Rana,Anura,Amphibia
+GB92_766,Yes,NA,NA,GBR92Rt_N230,FV3-like,104599,Becki Lawson,01/07/1992,Europe,United Kingdom,United Kingdom,Wild,-1.8880423,50.718574,Rana temporaria,Rana,Anura,Amphibia
+GB92_RUK11,Yes,NA,RUK11,GBR92Rt_H110,FV3-like,103483,Andrew Cunningham,01/07/1992,Europe,United Kingdom,United Kingdom,Wild,-0.42069,51.53469,Rana temporaria,Rana,Anura,Amphibia
+GB93_065,Yes,NA,NA,GBR93Rt_N130,FV3-like,106796,Becki Lawson,01/07/1993,Europe,United Kingdom,United Kingdom,Wild,-0.12617284,51.135054,Rana temporaria,Rana,Anura,Amphibia
+GB93_286,Yes,NA,NA,GBR93Rt_N135,FV3-like,105843,Becki Lawson,01/07/1993,Europe,United Kingdom,United Kingdom,Wild,1.4013043,51.222567,Rana temporaria,Rana,Anura,Amphibia
+GB93_287,Yes,NA,NA,GBR93Rt_N148,FV3-like,105234,Becki Lawson,01/07/1993,Europe,United Kingdom,United Kingdom,Wild,-0.5599501,51.3147593,Rana temporaria,Rana,Anura,Amphibia
+GB93_339,Yes,NA,NA,GBR93Rt_N112,FV3-like,105009,Becki Lawson,01/07/1993,Europe,United Kingdom,United Kingdom,Wild,0.41970838,51.574199,Rana temporaria,Rana,Anura,Amphibia
+GB93_760,Yes,NA,NA,GBR93Rt_N224,FV3-like,105675,Becki Lawson,01/07/1993,Europe,United Kingdom,United Kingdom,Wild,-0.2689912,50.839485,Rana temporaria,Rana,Anura,Amphibia
+GB93_761,Yes,NA,NA,GBR93Rt_N225,FV3-like,105277,Becki Lawson,01/07/1993,Europe,United Kingdom,United Kingdom,Wild,-0.2689912,50.839485,Rana temporaria,Rana,Anura,Amphibia
+GB93_762,Yes,NA,NA,GBR93Rt_N226,FV3-like,105550,Becki Lawson,01/07/1993,Europe,United Kingdom,United Kingdom,Wild,-0.2689912,50.839485,Rana temporaria,Rana,Anura,Amphibia
+GB95_RUK13,Yes,KJ538546.1,RUK13,GBR95Rt_H111,FV3-like,106170,Andrew Cunningham,01/07/1995,Europe,United Kingdom,United Kingdom,Wild,1.14822,52.056736,Rana temporaria,Rana,Anura,Amphibia
+GB96_915,Yes,NA,NA,GBR96Bb_N193,FV3-like,103631,Becki Lawson,01/07/1996,Europe,United Kingdom,United Kingdom,Wild,-0.21702249,51.348156,Bufo bufo,Bufo,Anura,Amphibia
+NI15_FV3_NIC,No,MF360246.1,FV3_NIC,NA,FV3-like,107035,NA,24/03/2015,South America,Netherlands,Nicaragua,Captive,5.291266,52.132633,Oophaga pumilio,Oophaga,Anura,Amphibia
+PT03_LMRV,Yes,NA,LMRV,POR03Im_N286,FV3-like,105329,Rachael Marschang,01/07/2003,Europe,Portugal,Portugal,Wild,-8.224454,39.399872,Iberolacerta monticola,Iberolacerta,Squamata,Reptilia
+USA_DMMG_MAINE,Yes,NA,DMMG,USAUNRs_N159,FV3-like,106471,Matt Gray,NA,North America,USA,USA,Wild,-69.4454689,45.253783,Rana sylvatica,Rana,Anura,Amphibia
+USA_FV3,No,AY548484.1,NA,NA,FV3-like,105903,NA,NA,North America,USA,USA,Wild,-95.712891,37.09024,Rana pipiens,Rana,Anura,Amphibia
+USA_HV2PWA_P1,Yes,NA,NA,USAUNLc_N265,FV3-like,106955,Jason Hoverman,NA,North America,USA,USA,Wild,-86.1349019,40.2671941,Lithobates clamitans,Lithobates,Anura,Amphibia
+USA06_RCVZ2,No,MF187209.1,RCVZ2,NA,FV3-like,104968,NA,30/06/2006,North America,USA,USA,Captive,-83.248421,31.42335,Lithobates catesbeianus,Lithobates,Anura,Amphibia
+USA11_TCCRV,No,MG953518.1,TCCRV,NA,FV3-like,104894,NA,01/07/2011,North America,USA,USA,Captive,-76.6,39.3,Terrapene carolina carolina,Terrapene,Testudines,Reptilia
+USA14_HV_019,Yes,NA,NA,USA14Tt_N263,FV3-like,105390,Jason Hoverman,26/04/2014,North America,USA,USA,Wild,-121.8964405,37.61664882,Taricha torosa,Taricha,Urodela,Amphibia
+USA14_HV_061,Yes,NA,NA,USA14Rc_N143,FV3-like,106784,Jason Hoverman,07/07/2014,North America,USA,USA,Wild,-121.8964405,37.61664882,Lithobates catesbeianus,Rana,Anura,Amphibia
+USA15_TMRV1,No,MG953519.1,TMRV1,NA,FV3-like,104803,NA,01/07/2015,North America,USA,USA,Captive,-76.6,39.3,Trioceros melleri,Trioceros,Squamata,Reptilia
+USA15_TMRV2,No,MG953520.1,TMRV2,NA,FV3-like,105030,NA,01/07/2015,North America,USA,USA,Captive,-76.6,39.3,Trioceros melleri,Trioceros,Squamata,Reptilia
+USA16_HV_TXLICA1,Yes,NA,NA,USA16Lc_N264,FV3-like,105232,Matt Gray,01/07/2016,North America,USA,USA,Wild,-99.9018131,31.9685988,Lithobates clamitans,Lithobates,Anura,Amphibia
+USA66_FV3,Yes,NA,FV3,USA66Rp_N162,FV3-like,105647,Jacques Robert,01/07/1966,North America,USA,USA,Wild,-72.6,44.6,Rana pipiens,Rana,Anura,Amphibia
+USA98_FV3_SSME,No,KJ175144.1,SSME,NA,FV3-like,105070,NA,01/07/1998,North America,USA,USA,Wild,-69.4,45.3,Ambystoma maculatum,Ambystoma,Urodela,Amphibia
+BR17_Rana-Bra-17,No,MT578298.1,Rana-Bra-17,NA,FV3-like,104744,NA,01/07/2017,South America,Brazil,USA,Captive,-46.7469725,-21.4716129,Lithobates catesbeianus,Lithobates,Anura,Amphibia
+USA96_SBV,No,MZ514903.1,Stickleback virus,NA,FV3-like,105673,NA,01/07/1996,North America,USA,USA,Wild,-95.712891,37.09024,Gasterosteus aculeatus,Gasterosteus,Gasterosteiformes,Actinopterygii
+USA96_TPV,No,MZ514904.1,Tadpole virus 2,NA,FV3-like,105671,NA,01/07/1996,North America,USA,USA,Wild,-95.712891,37.09024,Rana aurora,Rana,Anura,Amphibia
+AU92_BIV,No,NC_038507.1,KX185156.1,NA,TFV-like,103531,NA,01/01/1992,Oceania,Australia,Australia,Captive,146.7193,-19.25357,Limnodynastes ornatus,Limnodynastes,Anura,Amphibia
+CHN00_TFV,No,AF389451.1,TFV,NA,TFV-like,105057,NA,01/07/2000,Asia,China,China,Captive,113.1434,23.02896,Hoplobatrachus tigerinus,Hoplobatrachus,Anura,Amphibia
+DE96_ToRV1,No,KP266743.1,ToRV1,NA,TFV-like,103876,NA,01/07/1996,Europe,Germany,Germany,Captive,10.451526,51.165691,Testudo kleinmanni,Testudo,Testudines,Reptilia
+DE99_GGRV,No,KP266742.1,GGRV,NA,TFV-like,103681,NA,01/07/1999,Europe,Germany,Germany,Captive,10.451526,51.165691,Uroplatus fimbriatus,Uroplatus,Squamata,Reptilia
+USA14_ZRV,No,MK227779.1,ZRV,NA,TFV-like,103266,NA,01/07/2014,North America,USA,USA,Captive,-93.0977,41.878,Anaxyrus boreas boreas,Anaxyrus,Anura,Amphibia
+TH04_TFV,No,MT512497.1,TFV_D03-034,NA,TFV-like,105529,NA,01/07/2004,Asia,Thailand,Cambodia,Captive,102.0660435,13.8221849,Fejervarya limnocharis,Fejervarya,Anura,Amphibia
+TH11_TFV,No,MT512498.1,TFV_D11-067,NA,TFV-like,105418,NA,01/07/2011,Asia,Thailand,Thailand,Captive,100.0740231,7.6166823,Hoplobatrachus rugulosus,Hoplobatrachus,Anura,Amphibia
+TH16_TFV,No,MT512499.1,TFV_VD-16-006,NA,TFV-like,105206,NA,01/07/2016,Asia,Thailand,Thailand,Captive,99.8134211,13.5282893,Hoplobatrachus rugulosus,Hoplobatrachus,Anura,Amphibia
+TH17_TFV,No,MT512500.1,TFV_VD-17-007,NA,TFV-like,105114,NA,01/07/2017,Asia,Thailand,Thailand,Captive,101.2816261,12.6813957,Hoplobatrachus rugulosus,Hoplobatrachus,Anura,Amphibia
+TH02_TFV,No,MT512501.1,TF V_F0207,NA,TFV-like,106226,NA,01/07/2002,Asia,Thailand,Thailand,Captive,100.5017651,13.7563309,Carassius auratus,Carassius,Cypriniformes,Actinopterygii
+TH00_TFV,No,MT512502.1,TFV_D2008,NA,TFV-like,105405,NA,01/07/2000,Asia,Thailand,Thailand,Captive,100.0372929,13.8140293,Oxyeleotris marmorata,Oxyeleotris,Gobiiformes,Actinopterygii
+TH01_TFV,No,MT512503.1,TFV_F2112,NA,TFV-like,105249,NA,01/07/2001,Asia,Thailand,Thailand,Captive,100.2740821,13.5497754,Poecilia reticulata,Poecilia,Cyprinodontiformes,Actinopterygii
+TH98_TFV,No,MT512504.1,TFV_AV9803,NA,TFV-like,105022,NA,01/07/1998,Asia,Thailand,Thailand,Captive,100.5017651,13.7563309,Hoplobatrachus tigerinus,Hoplobatrachus,Anura,Amphibia
+TD_TFV_CHAD,No,MW727505.1,NA,NA,TFV-like,106120,NA,NA,Africa,Chad,Chad,Wild,15.03298,12.11699,Hoplobatrachus occipitalis,Hoplobatrachus,Anura,Amphibia
