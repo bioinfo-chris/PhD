@@ -3,8 +3,8 @@
 #####################################################################
 
 # permutation test to assess probability of congruent recombination results 
-# between observed regions linkage disequilibrium decay and
-# breakpoints detected by GARD in lineages of Ranavirus
+# between observed regions with linkage disequilibrium decay
+# and breakpoints detected by GARD in lineages of Ranavirus
 
 # load data
 load("PhD/data/rv_recomb_dat.RDS")
@@ -15,18 +15,18 @@ ld.has.bp <- sum(rv.recomb.dat$ld$has.bp) / nrow(rv.recomb.dat$ld)
 
 # set loop variables
 rvs <- c("atv","cmtv","fv3","tfv") # ranavirus clades
-n <- 1000 # perutation iterations
+n <- 1000 # permutation iterations
 perm <- data.frame(bp.has.ld.prop=rep(0, n), ld.has.bp.prop=rep(0, n)) # dataframe to record results
 
 # assign p-values and run permutation test
 p.bp <- 0 ; p.ld <- 0 ; for(i in 1:n){
   for(rv in rvs){
     
-    # get observed for clade
+    # get observed results for clade's analyses
     ld.obs <- data.frame(rv.recomb.dat$ld[rv.recomb.dat$ld$clade==rv,c(2:4)]) 
     bp.obs <- rv.recomb.dat$bp[rv.recomb.dat$bp$clade==rv, "bp"]
     
-    # set the random datasets for each iteration
+    # set the corresponding random datasets for each iteration
     ld.rand <- data.frame(rv.recomb.dat$core.pos[sample(nrow(rv.recomb.dat$core.pos), nrow(ld.obs)),c(1:3)], has.bp=F)
     bp.rand <- data.frame(bp=sample(c(1:45169), length(bp.obs)), has.ld=F) # 45169 length of alignment
     
