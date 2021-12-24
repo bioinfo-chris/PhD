@@ -2,12 +2,12 @@
 ### ---===::: Ranavirus Recombination Permuatation Test :::===--- ###
 #####################################################################
 
-# permutation test to assess congruency between observed regions linkage disequilibrium decay
-# and recombiantion breakpoints detected by GARD in lineages of Ranavirus
+# permutation test to assess probability of congruent recombination results 
+# between observed regions linkage disequilibrium decay and
+# breakpoints detected by GARD in lineages of Ranavirus
 
 # load data
 load("PhD/data/rv_recomb_dat.RDS")
-load("/Users/ChrisOwen/Dropbox/Work/PhD/Chapters/3-Ranavirus/recombination/ld-bp_permTest/rv_recomb_dat.RDS")
 
 # observed proportions of congruent results
 bp.has.ld <- sum(rv.recomb.dat$bp$has.ld) / nrow(rv.recomb.dat$bp)
