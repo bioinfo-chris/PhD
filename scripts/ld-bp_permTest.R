@@ -53,7 +53,7 @@ p.bp <- 0 ; p.ld <- 0 ; for(i in 1:n){
     assign(paste0(rv,".ld.rand"), ld.rand)
   }
   
-  # record
+  # record random proportions compared to observed
   rv.bp.rand <- rbind(atv.bp.rand, cmtv.bp.rand, fv3.bp.rand, tfv.bp.rand)
   perm$bp.has.ld.prop[i] <- sum(rv.bp.rand$has.ld)/nrow(rv.bp.rand)
   if(perm$bp.has.ld.prop[i] > bp.has.ld){
